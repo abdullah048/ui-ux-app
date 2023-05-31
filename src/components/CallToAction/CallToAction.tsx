@@ -23,7 +23,6 @@ padding: 2rem 4rem;
 display:flex;
 justify-content: space-between;
 align-items: center;
-max-width: 1170px;
 background: var(--gradient-bar);
 border: 1px solid #000000;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
